@@ -13,6 +13,7 @@ b4a5634a AbilityName
 c88c6b61 AbilityPowerIncPerLevel
 d47ff1a6 AbilityPromptAnimData
 c13ae504 AbilityPrompts
+01ba2bd1 AbilityResource
 ff1455b7 AbilityResourceBars
 c14d71dc AbilityResourceThresholdRangeHighColor
 3f68efb8 AbilityResourceThresholdRangeLowColor
@@ -408,6 +409,7 @@ e1c50cb2 BaronIcon
 3ae31586 BaronSteal
 6b93eab0 BaronValue
 a2621347 BarrackMinion
+d1ed70fe Barracks
 4fbc08a8 BarracksConfig
 8f0c2ed6 BarracksLink
 eac10e8a BaseBinName
@@ -1163,6 +1165,7 @@ cf5d9d5b DamageFlashMeter
 718456c6 DamageInhibitor
 5fb9bd8e DamageMax
 eba69111 DamageMeter
+3c0023cb DamageOverTime
 d12128e3 DamageOverview
 994018d1 DamagePercent
 d17c71e5 DamageProperties
@@ -1183,6 +1186,7 @@ cbc2f8ba DamageSourceCanBeTurret
 f6f283a3 DamageTakenPie
 e5b78177 DamageText
 5eb7940e DamageThresholdRequired
+72c5c2a8 DamageType
 59eb67ec DamageUpgrade
 59b5a4e0 DamageUpgradeLate
 2b551b30 DamagerDetailedLayout
@@ -1196,6 +1200,7 @@ eae0a7e6 DarkLaunch
 92bd18ab DataCollectionOnly
 aae01626 DataCollections
 7f189e8c DataDrivenPath
+137cf12a DataValue
 06afef1b DataValues
 fb56608c DataValuesModeOverride
 d472dc59 Date
@@ -2044,6 +2049,7 @@ edb4b217 GlowEffectElement
 fd6ff5f6 GlowingRing
 223109ad GlowingRotatingArrow
 ec66d793 Gold
+b9b4d8d7 GoldAmount
 e68d14a7 GoldCostIcon
 7550a6f7 GoldCostIconDisabled
 fab5fd6f GoldDisplaySceneHandle
@@ -2052,11 +2058,13 @@ fab5fd6f GoldDisplaySceneHandle
 e2261286 GoldGainVfxHandle
 9d7f2df2 GoldIcon
 4d3d9423 GoldIconDefinition
+db0e9d5b GoldMax
 67db3cec GoldMineSkinId
 499064f1 GoldScene
 f3eb96d4 GoldText
 33a69e1a GoldTextHandle
 2781ed6b GoldTooltipTraKeys
+8557faf0 GoldValue
 2875fcd2 GravesSmall
 d209ff45 Gravity
 81bc04be GreaterThan
@@ -2447,6 +2455,7 @@ e75b0636 ItemBuffTarget
 97e0a6ab ItemButtonHighlights
 183b3a4e ItemCodexUpperRightAnchor
 ddaa44f2 ItemCombineTooltipData
+a1456915 ItemCount
 99a8bb56 ItemDamageIconTextureName
 244c26e6 ItemData
 a5cfd667 ItemDesc
@@ -2814,6 +2823,7 @@ c9b71b3d MagicResistBorders
 fad4c40b MagicResistIcon
 4a1c6359 MagicResistThreshold
 d4b01b1e MagicResistThresholds
+47343861 MagicResistance
 c772db3b MagicResistanceUpgrade
 f21bd022 MagicShieldBar
 022e368c MagicalDamage
@@ -3327,6 +3337,7 @@ d839c90f NotificationBottomline
 23342deb NotificationTopline
 f623b026 NotificationsBadgeVFX
 e4e655d3 NudgeDistance
+86d04b5b NumAugments
 528cdb47 NumExtraPlayers
 c8d23640 NumMaxDifferentCategories
 7648a351 NumRoundsLossForgiven
@@ -3624,6 +3635,7 @@ e59d6814 PerPixelUvsX
 38cc8288 PercentMPRegenMod
 b779205d PercentOmnivampMod
 1c17c0d1 PercentPhysicalVampMod
+97537db5 Percentage
 9f1386b1 PercentageChance
 c3310cda PercentageFormatTraKey
 3f9461ea PercentageHeadSamplesToDrop
@@ -4032,6 +4044,7 @@ af1fcb6f RedeTeamElementUnselectedColor
 9ae7a82d RedeemTrakey
 92fc4077 ReduceClientCameraReplication
 d62df07c ReducedBoneSkinning
+5a81f39a Reference
 caa4adcf ReflectionFresnelBlue
 cf0fb7aa ReflectionFresnelGreen
 25e2e9fa ReflectionFresnelRed
@@ -4104,12 +4117,14 @@ e9427229 ReportOffensiveNameButton
 03cafaeb ReportVerbalAbuseButton
 40d43c67 RequiredChampion
 55783ab4 RequiredItems
+31af55e6 RequiredLevel
 06e605bc RequiredLocations
 adbac8f0 RequiredRole
 5c92b7f2 RequiredStat
 aca5b9b4 RequiredStatFormula
 754cdce2 RequiredTeamMatches
 2e1c1e9b RequiredUnitProperty
+f60220b1 RequiredValue
 37985b59 RequiresAlienware
 7b98ffdd RequiresMrtSupport
 812748a2 RequiresShaderModel3
@@ -4438,6 +4453,7 @@ c719768a SeraphineStyleLarge
 47061567 ServerSendRevealToCastTargets
 22c5e738 SetDestroyedInFlightWhenDestroyedForTarget
 68c3f356 SetManually
+3a942548 SetName
 278d2a22 SetOverrideAttackDelay
 1a28d722 SetsCompletedToBackgroundEffects
 23e7082c ShaderParameters
