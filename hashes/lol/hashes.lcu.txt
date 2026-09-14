@@ -36764,6 +36764,7 @@ fce77f86337aa33d plugins/rcp-be-lol-game-data/global/default/assets/loadouts/com
 a24154168471cd96 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_penguknight_classic_tier3.png
 c96ddb0b31027e9f plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_penguknight_cosmic_lightgod_tier1.ll_pengu_cosmic_lightgod.png
 43eaf1f6c0b1e51a plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_penguknight_cosmic_partygod_tier1.ll_pengu_cosmic_partygod.png
+8767bac266baae38 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_penguknight_cosmic_partygod_tier1.png
 6a7884a649ef92c7 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_penguknight_cosmic_spacegod_tier1.ll_pengu_cosmic_spacegod.png
 6313f4caf5862d70 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_penguknight_cosmic_spacegod_tier1.png
 e60bd16ed3adbc56 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_penguknight_cosmic_strategygod_tier1.ll_pengu_cosmic_strategygod.png
@@ -37689,6 +37690,7 @@ a2dda617f104f23c plugins/rcp-be-lol-game-data/global/default/assets/loadouts/com
 12a4b2733873bf49 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_spacecat_base_classic_tier1.ll_spacecat_base.png
 d2cf53ed3f3b3973 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_spacecat_base_classic_tier1.png
 9084fa4d8bc237b7 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_spacecat_base_varient1_tier1.ll_spacecat_base_varient1.png
+6d5755c2871e22f9 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_spacecat_base_varient1_tier1.png
 82f9ba12400be431 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_spacecat_base_varient2_tier1.ll_spacecat_base_varient2.png
 11c57986e1a091ae plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_spacecat_base_varient2_tier1.png
 01a57c63bb230817 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/companions/tooltip_spacecat_base_varient3_tier1.ll_spacecat_base_varient3.png
@@ -43162,12 +43164,17 @@ afe4af37f7d5e6e0 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/sum
 3e6edb81703a442d plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10116_chibi_annie_cafecuties_cakefight_inventory.tft_accessories_1611.png
 6a501130771748bd plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10117_chibi_briar_bloodmoon_frenzied_inventory.png
 dfb4c3ff67c9379f plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10117_chibi_briar_bloodmoon_frenzied_inventory.tft_accessories_1611.png
+9d2b39c8aba1f257 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10118_ll_sprite_spacegroove_headphonesdancing_inventory.png
 59aa8bd555e0928e plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10118_ll_sprite_spacegroove_headphonesdancing_inventory.tft_accessories_1612.png
 e1de4d6f21856aa5 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10119_ll_shork_pride2026_inventory.png
 cc7d7d5853c93b7d plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10119_ll_shork_pride2026_inventory.tft_accessories_1611.png
+666f4ff513403e4b plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10120_chibi_vex_cafecuties_cakeforyou_inventory.png
 e9313a6cbd2f6c2a plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10120_chibi_vex_cafecuties_cakeforyou_inventory.tft_accessories_1612.png
+b62d316bfd9abada plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10121_chibi_vex_cafecuties_woocelebrationwoo_inventory.png
 4e365f3b68d7b128 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10121_chibi_vex_cafecuties_woocelebrationwoo_inventory.tft_accessories_1612.png
+008913addbd6c746 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10122_ll_crab_7yranniversary_dancingcelebration_inventory.png
 9ce5cb986248ff6a plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10122_ll_crab_7yranniversary_dancingcelebration_inventory.tft_accessories_1612.png
+6e30f9988610136e plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10123_ll_pengu_cosmic_presentsurprise_inventory.png
 aa2a135d2d2e9133 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10123_ll_pengu_cosmic_presentsurprise_inventory.tft_accessories_1612.png
 60205c73d613b5b4 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10124_unbound_aurelionsol_howyoudoing_inventory.tft_accessories_1613.png
 0ecb18f8822bc1b0 plugins/rcp-be-lol-game-data/global/default/assets/loadouts/summoneremotes/tft/em_10125_ll_meep_space_surprise_inventory.tft_accessories_1613.png
@@ -47673,6 +47680,7 @@ e717289fa31cfaee plugins/rcp-be-lol-game-data/global/default/assets/loot/compani
 64b262d826df9891 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/penguknight/loot_penguknight_classic_tier3.png
 fcafca1598d91433 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/penguknight/loot_penguknight_cosmic_lightgod_tier1.ll_pengu_cosmic_lightgod.png
 0af097a8ebff1724 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/penguknight/loot_penguknight_cosmic_partygod_tier1.ll_pengu_cosmic_partygod.png
+1f3fdc45febc1e3d plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/penguknight/loot_penguknight_cosmic_partygod_tier1.png
 3751f911427fe639 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/penguknight/loot_penguknight_cosmic_spacegod_tier1.ll_pengu_cosmic_spacegod.png
 3d968bce08675a0e plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/penguknight/loot_penguknight_cosmic_spacegod_tier1.png
 583a6e24ce62fdd6 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/penguknight/loot_penguknight_cosmic_strategygod_tier1.ll_pengu_cosmic_strategygod.png
@@ -48682,6 +48690,7 @@ fbcf069d6607735a plugins/rcp-be-lol-game-data/global/default/assets/loot/compani
 e425b9782f208878 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/spacecat/loot_spacecat_base_classic_tier1.ll_spacecat_base.png
 aa560c31c230c0b7 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/spacecat/loot_spacecat_base_classic_tier1.png
 98b49005eaa6faca plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/spacecat/loot_spacecat_base_varient1_tier1.ll_spacecat_base_varient1.png
+2dfbf2467c002233 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/spacecat/loot_spacecat_base_varient1_tier1.png
 2eb7fd2ab288c5e8 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/spacecat/loot_spacecat_base_varient2_tier1.ll_spacecat_base_varient2.png
 f62e8da7ed9dc508 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/spacecat/loot_spacecat_base_varient2_tier1.png
 ebdbf03944683d45 plugins/rcp-be-lol-game-data/global/default/assets/loot/companions/spacecat/loot_spacecat_base_varient3_tier1.ll_spacecat_base_varient3.png
@@ -67790,6 +67799,7 @@ e594942e949df2f7 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotat
 88ebe70197c0a8d9 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/boomjhincurtaincall/boom_jhincurtaincall-2x-pc.png
 e023187c055dd5b9 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/boomkdabeatdrop/mythic_boom_kdabeat-drop-2x-pc.png
 9a65dc94ea99f57e plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/boomkdabeatdrop/mythic_boom_kdabeat-drop-2x-pc.tft_rotashop_15_2.png
+3104de78f5a6cb1a plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/boomkdabeatdrop/mythic_kda-beatdrop-2x-pc.tft_rotashop_18_3.png
 ae488241d5de054d plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/boomkdacharm/mythic_boom_kda-charm_ahri-2x-pc.png
 e898ba6af5cd4e98 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/boomkdacharm/mythic_boom_kda-charm_ahri-2x-pc.tft_rotashop_15_24.png
 893bb681e56ed30f plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/boommajesticempresssoulshackles/mythic_boom_majesticempresssoulshackles-2x-pc.png
@@ -67987,6 +67997,7 @@ c866d18fe6531830 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotat
 d3ffae63abb96d96 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/chibikayle/seasonal_chibi_kayle.png
 71325bf5f222959c plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/chibikdaseraphine/chibi_kda_seraphine-2x-pc.png
 a5a97b7880dd82c2 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/chibikdaseraphine/chibi_kda_seraphine-2x-pc.tft_rotashop_15_2.png
+58ff0ab4d96eb625 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/chibikdaseraphine/mythic_chibi-kda-seraphine-2x-pc.tft_rotashop_18_3.png
 85ba56c1694900c0 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/chibikdasuperfanneeko/chibi_kda-superfan_neeko-2x-pc.png
 266e998e6fe3e9f1 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/chibileesinbase/seasonal_chibi_leesin_base.png
 83577703a1a9017c plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/rotationalshop/content/chibileesinbase/seasonal_chibi_leesin_base.tft_rotashop_15_1.png
@@ -68686,6 +68697,7 @@ a7f971d9d9fd559f plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/trove
 ca4e9d15bcb2002e plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/troves_bannercontent/chibiiblitzcrank/tr-thumb-chibi_iblitzcrank.png
 7df4246eac82880a plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/troves_bannercontent/chibikaisa/tft-tr-chasecontent-chibikdakaisa.13_24_tr_chibiprestigekaisa.png
 f90d5056a240f722 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/troves_bannercontent/chibikaisa/tft-tr-chasecontent-chibikdakaisa.png
+d999f3c8c92898a9 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/troves_bannercontent/chibikdaseraphine/tr-thumb-chibi_kda_seraphine.tft_rotashop_18_3.png
 da809ceea63306f7 plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/troves_bannercontent/chibikdaseraphine/tr-thumb-kda_seraphine.tft_rotashop_15_2.png
 2651e55bc6a2f67c plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/troves_bannercontent/chibileesincollectorbounty/lcu_tr_leesincollector_hub_background.png
 12319d753ab4096a plugins/rcp-be-lol-game-data/global/default/assets/ux/tft/troves_bannercontent/chibileesincollectorbounty/lcu_tr_leesincollector_hub_foreground_cloud.png
@@ -133610,6 +133622,9 @@ f3d137f6b3b78d49 plugins/rcp-fe-lol-navigation/global/default/images/control-clo
 506e3fe185600db4 plugins/rcp-fe-lol-navigation/global/default/images/control-settings.png
 92738f8cecf11793 plugins/rcp-fe-lol-navigation/global/default/images/full-launch-announcement-separator.png
 f1e5cbada7203752 plugins/rcp-fe-lol-navigation/global/default/images/hashes.png
+40eedf63ff16ae8a plugins/rcp-fe-lol-navigation/global/default/images/tft-tftu-modal-1.png
+3cc76bc15d2b1a87 plugins/rcp-fe-lol-navigation/global/default/images/tft-tftu-modal-2.png
+d1832d6511778b40 plugins/rcp-fe-lol-navigation/global/default/images/tft-tftu-modal-3.png
 46b94b82e2171d9a plugins/rcp-fe-lol-navigation/global/default/index.html
 75c0cded8bb77af7 plugins/rcp-fe-lol-navigation/global/default/info-hub-full-screen-error.png
 390a89f9443e4bda plugins/rcp-fe-lol-navigation/global/default/info-hub/info-hub-close-chevron-default.svg

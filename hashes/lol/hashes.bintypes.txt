@@ -1770,6 +1770,7 @@ f77590db LogicDriverVisibilityController
 cb05e946 LoginRootScene
 6d1f19d7 LoginViewController
 8353a901 LolBehaviorScript
+ca27818b LolCurrency
 ab89e6ba LolGameStateViewController
 b0df288d LolModesReplayConfig
 6b2225f9 LolModesSubphaseData
@@ -2794,6 +2795,7 @@ d56801d4 StringTableSet
 0c5ac0ef StringTableSetInstance
 50b6f5cb StringValueGet
 c5f84705 StructureFloatingInfoBarData
+7db73f86 SubCurrency
 995bf516 SubPartScaledProportionalToStat
 f26c205e SubmeshVisibilityBoolDriver
 bcf56e70 SubmeshVisibilityEventData
@@ -3434,7 +3436,9 @@ b3a933a4 UiMetricLaneMinionFlatDamageReductionFromMinion
 3de2c4c6 UiMetricLaneMinionPercentIncreasedDamageToMinion
 2cfea070 UiMetricLatencyText
 cce5e3e3 UiMetricMultiDragonKillsSrX
+6734c597 UiMetricTeamBaronKills
 bac72a13 UiMetricTeamBuffExists
+b36c777a UiMetricTeamDragonKills
 d8374374 UiMetricTeamGold
 d609f42b UiMetricTeamKills
 276cb970 UiMetricTeamTowerKills
