@@ -1,0 +1,16 @@
+84900006 atakhan_combat
+3104046046 champion_kills
+1754054219 champion_level
+2534871658 critical
+1240670792 distance
+2322908514 mus_seraphine_passive
+3085817804 mus_starguardian_spawn
+745018932 seconds
+3910398705 skin_scale
+3025917178 standard
+268778527 teemo_passive
+2108420368 urgot_w
+2108420373 urgot_r
+3870064044 urgot_vo
+2415836739 volume
+2498141719 yorick_r
